@@ -50,10 +50,11 @@ Previously built and ran [GigaFit Meals](https://gigafitmeals.com) — a live D2
 
 ## Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravhira&show_icons=true&hide_border=true&count_private=true&theme=default&hide=stars&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhira&layout=compact&hide_border=true&theme=default&langs_count=6" height="160"/>
-</p>
+<!-- GitHub trophies — different service, more reliable -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=gauravhira&theme=flat&no-frame=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Streak stats — demolab.com is more stable than github-readme-stats public -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=gauravhira&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 &nbsp;
 
