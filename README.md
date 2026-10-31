@@ -56,7 +56,7 @@ Previously built and ran [GigaFit Meals](https://gigafitmeals.com) — a live D2
 
 ## Background
 
-- 🏢 Previously: C# & Firmware Engineer at **ReVx Energy** — built enterprise BMS monitoring software, cut data-monitoring latency by 99.5% vs. the legacy system
+- 🏢 Previously: Software Engineer at **ReVx Energy** — built enterprise BMS monitoring software, cut data-monitoring latency by 99.5% vs. the legacy system
 - 🎓 M.Sc. Computer Science — St. Joseph's University, Bengaluru (2024)
 - 📍 Bengaluru, India
 - ✉️ [hello@clearcycle.in](mailto:hello@clearcycle.in) · [gauravhira.dev](https://gauravhira.dev) · [LinkedIn](https://linkedin.com/in/gauravhira)
